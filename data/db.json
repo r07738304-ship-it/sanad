@@ -1,0 +1,263 @@
+{
+  "volunteers": [
+    {
+      "id": "vol-1",
+      "name": "د. سارة عبد الرحمن",
+      "email": "dr.sara@sanad.org",
+      "phone": "01012345671",
+      "password": "password123",
+      "supportTypes": [
+        "طبيبة أورام",
+        "معلومات أو توعية صحية"
+      ],
+      "governorate": "القاهرة",
+      "offersOnline": true,
+      "maxCases": 4,
+      "currentCases": 1,
+      "isVerified": true,
+      "bio": "استشارية علاج الأورام، متطوعة لمساندة المحاربات بالإرشاد والأسئلة التوعوية غير الطارئة.",
+      "createdAt": "2026-09-01T10:00:00.000Z",
+      "availableSlots": [
+        {
+          "id": "slot-1-1",
+          "dayName": "الثلاثاء",
+          "date": "2026-10-06",
+          "time": "06:00 م",
+          "notes": "جلسة هاتفية أو عبر زووم - 30 دقيقة"
+        },
+        {
+          "id": "slot-1-2",
+          "dayName": "الخميس",
+          "date": "2026-10-08",
+          "time": "07:30 م",
+          "notes": "جلسة توجيهية واستفسارات عامة"
+        },
+        {
+          "id": "slot-1-3",
+          "dayName": "السبت",
+          "date": "2026-10-10",
+          "time": "05:00 م",
+          "notes": "مكالمة هادئة للاطمئنان والتوجيه"
+        }
+      ]
+    },
+    {
+      "id": "vol-2",
+      "name": "د. فريدة المنشاوي",
+      "email": "dr.farida@sanad.org",
+      "phone": "01123456782",
+      "password": "password123",
+      "supportTypes": [
+        "طبيبة نفسية",
+        "أخصائية نفسية"
+      ],
+      "governorate": "الإسكندرية",
+      "offersOnline": true,
+      "maxCases": 5,
+      "currentCases": 2,
+      "isVerified": true,
+      "bio": "طبيبة وأخصائية نفسية معنية بالصحة النفسية لمرضى الأورام وتقنيات تخفيف التوتر والقلق.",
+      "createdAt": "2026-09-05T12:00:00.000Z",
+      "availableSlots": [
+        {
+          "id": "slot-2-1",
+          "dayName": "الأربعاء",
+          "date": "2026-10-07",
+          "time": "04:00 م",
+          "notes": "جلسة دعم نفسي وتفريغ وجداني"
+        },
+        {
+          "id": "slot-2-2",
+          "dayName": "الجمعة",
+          "date": "2026-10-09",
+          "time": "06:00 م",
+          "notes": "جلسة عبر الإنترنت مسائية هادئة"
+        }
+      ]
+    },
+    {
+      "id": "vol-3",
+      "name": "أ. ياسمين الشريف",
+      "email": "yasmin.coach@sanad.org",
+      "phone": "01234567893",
+      "password": "password123",
+      "supportTypes": [
+        "لايف كوتش",
+        "معالجة بالفن",
+        "متخصصة في دعم وتمكين المرأة"
+      ],
+      "governorate": "الجيزة",
+      "offersOnline": true,
+      "maxCases": 3,
+      "currentCases": 0,
+      "isVerified": true,
+      "bio": "مدربة حياة ومعالجة بالفن التشكيلي، تساعد في استعادة الشغف والتعبير الإيجابي أثناء رحلة العلاج.",
+      "createdAt": "2026-09-10T14:00:00.000Z",
+      "availableSlots": [
+        {
+          "id": "slot-3-1",
+          "dayName": "الإثنين",
+          "date": "2026-10-05",
+          "time": "05:00 م",
+          "notes": "جلسة تعبير فني وكوتشنج شخصي"
+        },
+        {
+          "id": "slot-3-2",
+          "dayName": "الأربعاء",
+          "date": "2026-10-07",
+          "time": "07:00 م",
+          "notes": "كوتشنج استعادة التوازن الحياتي"
+        },
+        {
+          "id": "slot-3-3",
+          "dayName": "الخميس",
+          "date": "2026-10-08",
+          "time": "04:30 م",
+          "notes": "جلسة أونلاين تفاعلية دافئة"
+        }
+      ]
+    },
+    {
+      "id": "vol-4",
+      "name": "د. مروة كامل",
+      "email": "marwa.pt@sanad.org",
+      "phone": "01098765434",
+      "password": "password123",
+      "supportTypes": [
+        "أخصائية علاج طبيعي",
+        "معلومات أو توعية صحية"
+      ],
+      "governorate": "الغربية",
+      "offersOnline": true,
+      "maxCases": 4,
+      "currentCases": 1,
+      "isVerified": true,
+      "bio": "أخصائية علاج طبيعي وتأهيل ما بعد الجراحة والوذمة اللمفية وتمارين التروية الحركية.",
+      "createdAt": "2026-09-12T09:30:00.000Z",
+      "availableSlots": [
+        {
+          "id": "slot-4-1",
+          "dayName": "الثلاثاء",
+          "date": "2026-10-06",
+          "time": "03:00 م",
+          "notes": "إرشادات تمارين الحركة وتخفيف التيبس"
+        },
+        {
+          "id": "slot-4-2",
+          "dayName": "السبت",
+          "date": "2026-10-10",
+          "time": "06:30 م",
+          "notes": "استشارة حركية وتأهيلية أونلاين"
+        }
+      ]
+    },
+    {
+      "id": "vol-5",
+      "name": "أ. هند الزهيري",
+      "email": "hend.empower@sanad.org",
+      "phone": "01512349875",
+      "password": "password123",
+      "supportTypes": [
+        "أخصائية اجتماعية",
+        "متخصصة في دعم وتمكين المرأة",
+        "مدربة مهارات"
+      ],
+      "governorate": "الدقهلية",
+      "offersOnline": true,
+      "maxCases": 3,
+      "currentCases": 0,
+      "isVerified": true,
+      "bio": "خبيرة دعم مجتمعي وتمكين أسري لمساعدة المرأة في إدارة التحديات الاجتماعية والوظيفية أثناء المرض.",
+      "createdAt": "2026-09-15T11:00:00.000Z",
+      "availableSlots": [
+        {
+          "id": "slot-5-1",
+          "dayName": "الأحد",
+          "date": "2026-10-04",
+          "time": "06:00 م",
+          "notes": "جلسة استشارية أسرية وتمكينية"
+        },
+        {
+          "id": "slot-5-2",
+          "dayName": "الأربعاء",
+          "date": "2026-10-07",
+          "time": "05:30 م",
+          "notes": "مهارات تنظيم الطاقة اليومية والدعم المجتمعي"
+        }
+      ]
+    }
+  ],
+  "bookings": [
+    {
+      "id": "SND-4081",
+      "fighterFirstName": "مريم",
+      "fighterContact": "01009876543",
+      "supportType": "طبيبة أورام",
+      "governorate": "القاهرة",
+      "volunteerId": "vol-1",
+      "volunteerName": "د. سارة عبد الرحمن",
+      "slot": {
+        "id": "slot-demo-1",
+        "dayName": "الإثنين",
+        "date": "2026-09-29",
+        "time": "05:00 م",
+        "notes": "جلسة استيضاح عامة"
+      },
+      "status": "active",
+      "createdAt": "2026-09-27T08:00:00.000Z"
+    },
+    {
+      "id": "SND-5129",
+      "fighterFirstName": "فاطمة",
+      "fighterContact": "fatima.fight@example.com",
+      "supportType": "أخصائية نفسية",
+      "governorate": "الإسكندرية",
+      "volunteerId": "vol-2",
+      "volunteerName": "د. فريدة المنشاوي",
+      "slot": {
+        "id": "slot-demo-2",
+        "dayName": "الثلاثاء",
+        "date": "2026-09-30",
+        "time": "06:00 م"
+      },
+      "status": "active",
+      "createdAt": "2026-09-27T11:30:00.000Z"
+    },
+    {
+      "id": "SND-6034",
+      "fighterFirstName": "نوران",
+      "fighterContact": "01223344556",
+      "supportType": "طبيبة نفسية",
+      "governorate": "الإسكندرية",
+      "volunteerId": "vol-2",
+      "volunteerName": "د. فريدة المنشاوي",
+      "slot": {
+        "id": "slot-demo-3",
+        "dayName": "الأربعاء",
+        "date": "2026-10-01",
+        "time": "04:00 م"
+      },
+      "status": "active",
+      "createdAt": "2026-09-27T15:00:00.000Z"
+    },
+    {
+      "id": "SND-7812",
+      "fighterFirstName": "أمينة",
+      "fighterContact": "amina.care@example.com",
+      "supportType": "أخصائية علاج طبيعي",
+      "governorate": "الغربية",
+      "volunteerId": "vol-4",
+      "volunteerName": "د. مروة كامل",
+      "slot": {
+        "id": "slot-demo-4",
+        "dayName": "الخميس",
+        "date": "2026-10-02",
+        "time": "03:30 م"
+      },
+      "status": "active",
+      "createdAt": "2026-09-28T09:00:00.000Z"
+    }
+  ],
+  "waitingList": [],
+  "lastUpdated": "2026-09-28T18:16:37.966Z"
+}

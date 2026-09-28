@@ -1,0 +1,6 @@
+{
+  "name": "سند | دعم محاربات السرطان",
+  "description": "منصة سند لدعم محاربات السرطان - حجز مواعيد استشارية مع متطوعات متخصصات بتوزيع تلقائي موثوق وسري.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
